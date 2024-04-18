@@ -1,0 +1,206 @@
+Name,Health Points,Gold,Experience,Phyisical Power,Magical Power,Phyisical Defense,Magical Defense,Family,Weak Against,Strong Against
+Imp,6,5,28,19,,0,0,,,
+Eagle,18,5,40,21,,0,0,,Projectile,
+FloatEye,20,9,42,20,,0,0,,Projectile,
+SwordRat,30,13,66,21,,0,11,,,
+Larva,28,8,49,20,,1,4,,,
+Sand Man,20,17,70,20,,0,4,Reptile,Ice,
+SandMoth,40,18,74,21,,3,5,,Projectile,
+Sandpede,60,20,79,11,,3,4,,,
+SandWorm,75,22,82,16,10,2,7,,,
+Jelly,35,36,134,15,,254,7,Pudding,Fire,
+CaveToad,47,24,89,11,,2,6,Reptile,Ice,
+Zombie,52,31,112,13,,2,9,Undead,Fire Holy,Darkness
+EvilShel,58,28,101,11,,1,8,,Lightning,
+Mad Toad,59,34,127,11,,1,7,Reptile,Ice,
+WaterHag,64,38,136,18,,2,7,Reptile,Lightning,
+Pike,65,30,119,11,,1,7,,Lightning,
+TinyMage,69,63,132,19,3,2,38,Mage,,
+WaterBug,125,79,225,16,,3,11,,Lightning,
+Gator,175,95,236,22,,2,10,,Ice,
+Soldier,27,54,157,20,,0,4,Boss,,
+General,221,80,398,26,,2,12,Boss,,
+Imp Cap.,37,48,184,15,,0,7,,,
+Cream,55,33,144,16,,254,12,Pudding,Lightning,
+Basilisk,90,30,110,15,,2,9,Reptile,,
+Weeper,130,42,157,18,144,2,10,Ghoul,,
+Turtle,190,46,234,20,,1,10,Reptile,Ice,
+Bomb,55,76,361,19,,2,15,,,
+Spirit,86,122,278,24,6,1,9,Ghoul,Holy,Fire
+GrayBomb,111,105,445,36,,4,25,,,
+Skeleton,135,126,238,26,,2,8,Undead,Fire Holy,Darkness
+Cocatris,149,82,275,24,,1,11,,Projectile,
+Gargoyle,160,90,315,28,,2,12,Reptile,Holy Projectile,
+Red Bone,213,169,315,34,,3,12,Undead,Fire Holy,Darkness
+Needler,115,53,335,28,,2,8,,,
+Fighter,65,100,400,28,,2,4,,,Darkness Holy
+Captain,320,152,600,36,,2,11,,,
+Zuu,941,489,432,32,,0,0,,Projectile,
+Soul,200,165,460,28,,3,10,Ghoul,Holy,Fire
+Ghoul,222,179,505,32,,3,11,Undead,Fire Holy,Darkness
+Revenant,250,186,575,36,,1,12,Undead,Fire Holy,Darkness
+Lilith,466,262,2703,46,,3,13,Reptile Undead,Fire,
+Ghast,200,100,50,42,,1,5,Undead,Fire Holy,Darkness
+Piranha,180,145,430,30,,3,10,,Lightning,
+Hydra,257,209,670,44,,2,14,Reptile,Lightning,
+Guard,280,230,710,40,26,3,14,Mage,,
+ElecFish,284,214,640,40,,2,13,,Projectile,Lightning
+Crocdile,292,218,660,38,,2,15,,Ice,
+FangShel,380,262,1030,42,,2,19,,Lightning,
+AquaWorm,638,219,690,42,,0,22,,Lightning,
+Python,108,222,720,46,,0,22,,Holy Ice,
+Treant,335,148,687,52,2,1,15,,Fire,
+Panther,342,252,820,50,,2,16,,Holy,
+StingRat,398,220,700,40,,3,12,,,
+Cannibal,440,210,650,24,,2,17,,Fire,
+VampGirl,270,195,810,38,21,2,15,Undead,Fire Holy,Lightning
+CaveNaga,285,201,740,40,5,3,12,Reptile,Holy,
+Mage,300,232,1000,44,,3,22,,,
+Cave Bat,334,151,598,42,,3,12,,Holy Projectile,Lightning
+Ogre,865,240,800,60,,2,12,Giant,Holy,
+Slime,105,50,750,52,,254,9,Pudding,Fire,
+Puppet,256,180,800,56,15,3,16,,Fire,
+Witch,350,329,1551,50,47,2,12,Mage,,
+SwordMan,360,175,840,64,,2,19,Undead,Fire Holy,Darkness
+Centaur,380,172,860,58,,2,18,,,
+Gremlin,410,275,1221,56,31,3,15,Mage,Fire,
+EpeeGirl,425,200,1050,60,,3,15,,,
+Marion,473,195,1000,56,35,3,17,Mage,,
+Ice Liz,480,289,1331,62,2,2,14,Reptile,Fire,Ice
+IceBeast,520,276,1441,64,3,3,13,,Fire,Ice
+Carapace,700,224,920,72,,4,14,Reptile,Ice,Fire
+Roc Baby,50,81,1004,60,,2,9,,Projectile,
+TrapRose,370,32,1204,62,,2,6,,Fire,
+Roc,500,150,1404,66,,3,18,,Projectile,
+HugeCell,695,253,1504,60,,4,22,,,
+Staleman,1950,445,703,86,,4,21,Giant,Ice,
+Dark Imp,199,45,1930,56,,0,0,,,
+Armadilo,325,194,1555,58,,4,12,,,
+Tortoise,435,234,1666,70,,3,17,Reptile,Ice,
+Centpede,655,342,2714,76,3,5,29,,,
+RockMoth,900,312,3114,74,,4,18,,Projectile,
+RocLarva,986,39,2822,72,,3,17,,,
+GlomWing,1580,510,2837,100,,4,254,,Projectile,
+Gorgon,2550,248,3003,134,,4,40,,,
+Talantla,?,,,?,?,?,?,,,
+Egg,?,,,?,?,?,?,,,
+Ironback,100,233,1077,74,,4,15,,,
+Tofu,298,384,1808,66,,254,12,Pudding,Ice,
+Naga,320,150,1118,66,5,4,14,Reptile,,
+EvilDoll,388,269,1408,64,,3,13,,,
+Medusa,490,225,1208,64,,4,14,,,
+FlameMan,579,300,1708,76,,4,19,,Ice,Fire
+BlackCat,593,345,2759,72,,3,17,,,
+Balloon,697,315,2459,72,,4,19,,Projectile,
+Chimera,700,228,1708,80,,3,18,,,Fire Ice Lightning
+BlackLiz,792,43,1298,64,16,4,15,Reptile,Ice,
+Sorcerer,1000,272,2359,82,50,4,22,Mage,,
+BladeMan,1050,211,2559,76,,4,19,Ghoul,Holy,
+Q.Lamia,1100,247,2859,74,,4,31,Reptile,,
+Lamia,1200,143,2059,72,,4,16,Reptile,,
+Grudger,1400,149,2459,76,,4,22,,Holy,Lightning
+FlameDog,1221,244,1708,68,,3,22,,Ice,Fire
+Alert,1425,380,2008,112,,0,254,Mech,,
+Mad Ogre,2000,270,2359,86,53,4,254,Giant Mage,,
+Green D.,2200,368,4759,88,3,3,18,Dragon,,
+Stoneman,2560,238,2908,84,,4,254,Giant,Ice,
+Ironman,2900,383,3659,92,,3,20,Giant,,
+GiantBat,439,262,1977,56,,3,16,,Fire Projectile,Lightning
+Skull,740,116,1577,74,,3,18,Undead,Fire Holy,Darkness
+TinyToad,600,335,1841,19,47,5,37,Mage Reptile,Ice,
+ToadLady,2960,598,3441,98,223,4,0,Mage,,
+Ghost,2800,362,3141,100,11,3,23,,,Fire
+DarkTree,3900,525,5041,104,74,3,38,Mage,Fire,
+Malboro,4200,458,5641,112,,3,23,,,
+Hooligan,2200,484,4088,108,,5,12,Ghoul,Holy Projectile,
+Red Eye,2400,465,3444,100,,4,38,,Projectile,
+Warrior,2900,575,4288,104,,4,26,,,
+Fiend,3480,650,6388,102,79,5,43,Mage,,
+Conjurer,3600,475,3688,104,60,5,39,Mage,,
+Arachne,3650,585,4388,102,10,3,18,,Ice Projectile,
+Clapper,7600,900,7777,124,,4,254,Dragon,Projectile,Lightning
+Were Bat,1014,255,2306,94,,3,25,,Fire Projectile,Lightning
+Screamer,1400,205,3082,90,,4,22,Giant Mech,,
+HugeNaga,1480,238,3582,88,,3,26,Reptile,,
+VampLady,2375,188,3582,88,31,4,24,Mage Undead,Fire Holy,
+Yellow D,3100,1500,28000,108,,4,37,Dragon,,Lightning
+Mantcore,3400,1200,28000,114,,3,38,,,Fire Ice Lightning
+TrapDoor,5000,4500,30000,88,,3,38,,,
+MoonCell,980,1100,3237,102,,5,43,,,
+Juclyote,1700,1560,6999,116,,5,44,,,
+Crawler,1855,538,3437,100,,4,24,,,
+Procyote,2600,1850,7999,120,,5,54,,,
+Red Worm,7000,310,6303,128,15,4,54,,Fire,
+Pudding,1357,1300,3044,116,,254,0,Pudding,,
+Grenade,1820,630,2644,108,,4,37,,Projectile,
+Beamer,3000,890,3199,88,,4,41,Mech,,
+Horseman,3500,1220,9699,126,,5,43,Mech,,
+Machine,4900,985,7999,118,,3,40,Mech,,
+Searcher,5500,900,15004,138,,4,52,Mech,,
+Last Arm,9500,338,8703,128,,5,47,Mech,,
+MacGiant,10000,1500,31000,128,,4,38,Giant Mech,,
+Mech D.,18000,2550,41400,138,56,4,38,Dragon,,
+Kary,4000,3500,13000,122,,3,254,,,
+Warlock,5100,240,17003,80,47,5,41,Mage,,
+GingRyu,7500,19000,25000,124,95,4,44,Dragon,,
+KingRyu,8200,23000,30000,128,30,54,39,Dragon,,
+D.Bone,12000,6750,14000,142,,3,254,Dragon Undead,Fire,Darkness
+D.Fossil,12000,8100,15000,132,,4,254,Dragon Undead,Fire Holy,Darkness
+Tricker,12000,10700,20000,174,143,3,0,,Lightning,
+RedGiant,14000,7000,18500,122,57,4,39,Giant,,
+Blue D.,15000,40200,36000,144,,4,47,Dragon,,All elements
+Red D.,15000,65000,41500,162,79,4,39,Dragon,Ice,Fire
+Veteran,25000,65200,33333,144,,5,38,,Projectile,
+Behemoth,23000,65000,57000,154,63,4,254,,,
+EvilMask,37000,65000,50000,128,18,4,19,Mech,,
+Mind,20000,50000,65000,130,99,254,0,,,
+Breath,40000,50000,60000,154,99,0,254,,,
+PinkPuff,20000,55555,10000,154,127,5,22,Pudding,,
+Octomamm,2350,500,1200,22,,0,25,,Darkness Lightning,Holy
+Antlion,1100,800,1500,11,,3,11,,,
+Mom Bomb,11000,1200,1900,30,5,1,9,,Darkness,
+D.Knight,?,,,?,?,?,?,,,
+Monk,?,,,?,?,?,?,,,
+Baigan,4444,3000,4800,58,9,1,11,,,
+RightArm,444,,10,58,9,2,0,,,
+Left Arm,444,,10,58,9,2,0,,,
+Dark Elf,23890,4000,1000,18,1,0,254,,Holy,
+Dark D.,3927,5000,6000,80,15,1,254,Dragon,Holy,Holy
+Sandy,2591,3000,2500,30,11,1,11,Mage,,
+Cindy,4599,3000,2500,36,11,2,11,Mage,,
+Mindy,2590,3000,2500,30,10,1,0,Mage,,
+Cal,1369,500,1000,54,31,0,11,,,
+Brina,369,500,1000,54,31,1,11,,,
+Calbrina,5315,5000,12000,106,41,2,25,,,
+Golbez,?,,,?,?,?,?,,,
+Shadow,?,,,?,?,?,?,,,
+Dr.Lugae,4936,2000,5500,18,,0,11,,,
+Balnab,4832,2500,5500,86,31,0,11,Mech,,
+Lugaborg,9321,4000,10101,86,7,1,11,Mech,,
+BalnabZ,4518,2500,20,114,,1,5,,,
+K.Eblan,?,,,?,?,?,?,,,
+Q.Eblan,?,,,?,?,?,?,,,
+Milon,3500,2000,3200,19,15,2,0,,,
+Milon Z.,3523,2500,3600,46,31,1,22,Undead,Fire Holy Projectile,Ice
+Cagnazzo,5312,4000,5500,44,29,2,48,,Ice Lightning,
+Valvalis,8636,5500,9000,82,63,0,12,,,
+Rubicant,34000,7000,18000,80,16,3,37,,Ice,Fire
+Elements (Milon Z.),25000,2500,15625,132,?,3,?,Undead,Fire Holy,Ice Lightning
+Elements (Rubicant),25000,2500,15625,132,?,3,?,,Ice,Fire Holy Lightning
+Elements (Cagnazzo),30000,2500,15625,128,?,3,?,,Lightning,Fire Holy Ice
+Elements (Valvalis),30000,2500,15625,128,?,3,?,,,
+EvilWall,28000,8000,23000,84,79,3,29,,,
+Defender,3000,,,116,47,5,11,,,
+Attacker,3000,,,116,47,5,11,,,
+CPU,30000,10333,50000,174,127,4,38,,,
+Lunasaur,23000,,29500,144,54,4,254,Dragon Undead,Fire,
+Plague,33333,550,31108,146,,5,38,,Projectile,
+White D.,32700,,55000,156,31,5,48,Dragon,,Fire Ice Lightning
+Ogopogo,50000,,61000,150,127,4,40,,,
+Wyvern,60000,,64000,160,8,5,52,Dragon,,
+Zeromus,130000,,,?,?,?,?,,,
+Mist D.,465,200,700,16,10,5,31,,,Holy
+Odin,20001,,18000,116,95,5,38,,Lightning,
+Leviatan,50001,,28000,174,34,5,54,,Lightning,
+Bahamut,45001,,35000,174,17,1,4,,,
+Asura,31005,,20000,134,69,3,37,Mage,,
